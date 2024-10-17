@@ -7,5 +7,5 @@ Proceso actividad2
 	Escribir "Introduce el exponente"
 	Leer exponente
 	resultado<-potencia(base, exponente)
-	Escribir resultado
+	Escribir "El resultado es: ",resultado
 FinProceso
